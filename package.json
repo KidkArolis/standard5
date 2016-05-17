@@ -10,7 +10,7 @@
     "test": "test"
   },
   "scripts": {
-    "test": "standard",
+    "test": "standard bin",
     "release": "kn-release"
   },
   "repository": {
