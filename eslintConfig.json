@@ -10,9 +10,11 @@
   },
   "env": {
     "es6": false,
-    "node": false
+    "node": false,
+    "browser": true
   },
   "globals": {
+    "require": true,
     "exports": true,
     "module": true
   }
