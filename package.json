@@ -1,0 +1,32 @@
+{
+  "name": "standard5",
+  "version": "1.0.0",
+  "description": "Like standard, but for es5 browser environments.",
+  "main": "bin/standard5",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/KidkArolis/standard5.git"
+  },
+  "keywords": [
+    "standard",
+    "eslint",
+    "linter",
+    "es5",
+    "browser"
+  ],
+  "author": "Karolis Narkevicius <karolis.n@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KidkArolis/standard5/issues"
+  },
+  "homepage": "https://github.com/KidkArolis/standard5#readme",
+  "dependencies": {
+    "standard": "^7.1.0"
+  }
+}
