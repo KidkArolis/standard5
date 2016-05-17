@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Like standard, but for es5 browser environments.",
   "main": "bin/standard5",
+  "bin": {
+    "standard5": "bin/standard5"
+  },
   "directories": {
     "test": "test"
   },
