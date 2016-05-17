@@ -1,6 +1,6 @@
 {
   "name": "standard5",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Like standard, but for es5 browser environments.",
   "main": "bin/standard5",
   "bin": {
