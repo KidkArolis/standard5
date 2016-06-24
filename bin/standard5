@@ -2,7 +2,7 @@
 
 var path = require('path')
 
-var engine = require('standard/node_modules/standard-engine')
+var engine = require('standard-engine')
 var opts = require('standard/options')
 
 Object.assign(opts.eslintConfig, {
