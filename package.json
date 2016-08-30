@@ -29,9 +29,13 @@
   "bugs": {
     "url": "https://github.com/KidkArolis/standard5/issues"
   },
-  "homepage": "https://github.com/KidkArolis/standard5#readme",
+  "homepage": "https://github.com/KidkArolis/standard5",
   "dependencies": {
-    "standard": "^7.1.0"
+    "eslint": "^3.4.0",
+    "eslint-config-standard": "^6.0.0",
+    "eslint-plugin-promise": "^2.0.1",
+    "eslint-plugin-standard": "^2.0.0",
+    "standard-engine": "^5.1.0"
   },
   "devDependencies": {
     "kn-release": "^1.0.1"
