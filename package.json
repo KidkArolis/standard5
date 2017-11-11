@@ -11,7 +11,7 @@
   },
   "scripts": {
     "test": "standard bin",
-    "release": "release"
+    "release": "np"
   },
   "repository": {
     "type": "git",
@@ -31,13 +31,15 @@
   },
   "homepage": "https://github.com/KidkArolis/standard5",
   "dependencies": {
-    "eslint": "^3.4.0",
-    "eslint-config-standard": "^6.0.0",
+    "eslint": "^4.11.0",
+    "eslint-config-standard": "^10.2.1",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-node": "^5.2.1",
     "eslint-plugin-promise": "^3.3.0",
-    "eslint-plugin-standard": "^2.0.0",
-    "standard-engine": "^5.1.0"
+    "eslint-plugin-standard": "^3.0.1",
+    "standard-engine": "^7.2.0"
   },
   "devDependencies": {
-    "kn-release": "^1.0.1"
+    "np": "^2.16.1"
   }
 }
