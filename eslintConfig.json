@@ -8,6 +8,10 @@
     },
     "sourceType": "script"
   },
+  "plugins": [
+    "promise",
+    "standard"
+  ],
   "env": {
     "es6": false,
     "node": false,

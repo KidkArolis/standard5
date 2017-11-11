@@ -1,6 +1,6 @@
 module.exports = function foo () {
   var a = 1
-  const foo = 5
+  var foo = 5
   a.bar(function () {})
   a.catch(function () {})
 
@@ -17,5 +17,5 @@ module.exports = function foo () {
     }
   }
 
-  return a + person
+  return a + person + foo
 }
