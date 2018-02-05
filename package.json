@@ -31,15 +31,15 @@
   },
   "homepage": "https://github.com/KidkArolis/standard5",
   "dependencies": {
-    "eslint": "^4.11.0",
+    "eslint": "^4.17.0",
     "eslint-config-standard": "^10.2.1",
     "eslint-plugin-import": "^2.8.0",
-    "eslint-plugin-node": "^5.2.1",
+    "eslint-plugin-node": "^6.0.0",
     "eslint-plugin-promise": "^3.3.0",
     "eslint-plugin-standard": "^3.0.1",
     "standard-engine": "^7.2.0"
   },
   "devDependencies": {
-    "np": "^2.16.1"
+    "np": "^2.19.0"
   }
 }
